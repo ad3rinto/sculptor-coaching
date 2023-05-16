@@ -4757,6 +4757,25 @@ img {
   border-radius: 8px;
 }
 
-/* #makeDark {
-  color: rgb(242, 246, 9);
-} */
+ #makeDark {
+  color: greenyellow;
+  clear: both;
+} 
+
+#overview-getintouch {
+  margin: 2em 0 0 8em;
+}
+
+#overview-getintouch2 {
+  margin: 0 4em 0 3em;
+}
+
+#logo-img {
+  float:left;
+  margin: 2% 70% 2% 0;
+}
+
+#sub-mara {
+  padding-top: 2em;
+  color: greenyellow;
+}
