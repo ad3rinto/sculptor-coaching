@@ -3574,6 +3574,7 @@ tbody.collapse.in {
 .navbar-fixed-top {
     top: 0;
     border-width: 0 0 1px;
+    clear: both;
 }
 .navbar-fixed-bottom {
     bottom: 0;
@@ -4585,6 +4586,7 @@ body {
     bottom: 0;
     left: 0;
     right: 0;
+    clear: both;
 }
 .section-container {
     padding: 80px 0;
@@ -4772,10 +4774,25 @@ img {
 
 #logo-img {
     float: left;
-    margin: 2% 70% 2% 0;
+    margin: 2% 80% 2% 0;
+    padding: 0%;
 }
 
 #sub-mara {
     padding-top: 2em;
     color: greenyellow;
+}
+#anchorClear {
+    margin-right: 0;
+    margin-left: 10px;
+    margin-top: 5px;
+}
+
+#sign-up {
+    margin-top: 7em;
+}
+ul {
+    /* list-style-type: none; */
+    text-align: inherit;
+    padding: 1em;
 }
