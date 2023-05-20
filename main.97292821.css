@@ -4796,3 +4796,11 @@ ul {
     text-align: inherit;
     padding: 1em;
 }
+
+#getInTouch {
+    border: #2d672d 4px solid;
+    padding: 0 1em;
+    background-color: #66c0b3;
+    color: white;
+    border-radius: 10px;
+}
