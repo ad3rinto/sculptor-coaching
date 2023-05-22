@@ -4804,3 +4804,10 @@ ul {
     color: white;
     border-radius: 10px;
 }
+
+@media (max-width: 767px) {
+    #getInTouch {
+        width: 0.5em;
+        font-size: smaller;
+    }
+}
