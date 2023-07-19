@@ -4811,3 +4811,8 @@ ul {
         font-size: smaller;
     }
 }
+
+h1+p {
+    font-size: x-small;
+    color: black;
+}
