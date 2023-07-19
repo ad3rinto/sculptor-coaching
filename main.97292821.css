@@ -4813,6 +4813,6 @@ ul {
 }
 
 h1+h2{
-    font-size: x-small;
+    font-size:smaller;
     color: black;
 }
