@@ -4812,7 +4812,7 @@ ul {
     }
 }
 
-h1+p {
+h1+h2{
     font-size: x-small;
     color: black;
 }
